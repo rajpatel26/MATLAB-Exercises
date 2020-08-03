@@ -1,11 +1,5 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-%
-% 
-% Insert BELOW your code 
-% marking id - 88693
+ % Insert your code below
+
 
 % Let's start by extracting all the content from all 6 documents
 %RedRidingHood
