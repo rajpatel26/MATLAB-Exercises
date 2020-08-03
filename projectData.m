@@ -1,11 +1,4 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-%
-% 
-% Insert BELOW your code 
-% marking id - 88693
+% Insert your code below
 
 function pD = projectData(Xmu,U,k)
 %projectData function receives 3 arguments i.e. a dataset, set of
