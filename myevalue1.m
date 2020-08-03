@@ -1,4 +1,4 @@
-% WRITE HERE YOUR SCRIPT HERE
+% WRITE YOUR SCRIPT HERE
 
 actual_val = exp(1);
 diff = 1;
