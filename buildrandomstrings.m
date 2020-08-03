@@ -1,4 +1,4 @@
-% WRITE HERE YOUR FUNCTION HERE
+% WRITE YOUR FUNCTION HERE
 
 function str_arr = buildrandomstrings(n)
   alphabets = 'a':'z';
