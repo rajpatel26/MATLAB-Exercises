@@ -1,5 +1,4 @@
-% WRITE HERE YOUR FUNCTION FOR EXERCISE 3
-% marking id = 5476 %
+% WRITE HERE YOUR FUNCTION HERE
 
 function mysin(p1,p2)
  
