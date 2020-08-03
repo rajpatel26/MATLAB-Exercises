@@ -1,5 +1,4 @@
-% WRITE HERE YOUR FUNCTION FOR EXERCISE 4
-% marking id = 5476 %
+% WRITE HERE YOUR FUNCTION HERE
 
 function str_arr = buildrandomstrings(n)
   alphabets = 'a':'z';
