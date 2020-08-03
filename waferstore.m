@@ -1,5 +1,4 @@
-% WRITE HERE YOUR FUNCTION FOR EXERCISE 1
-% marking id = 5476 %
+% WRITE YOUR FUNCTION HERE
 
 function parts = waferstore(p,q,cp)
     if length(p) == length(q) && length(q) == length(cp)
