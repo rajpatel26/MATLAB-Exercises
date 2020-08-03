@@ -1,4 +1,4 @@
-% WRITE HERE YOUR FUNCTION HERE
+% WRITE YOUR FUNCTION HERE
 
 function temp = mytemperature(i,j)
  temp(1,1) = min(i,j);
