@@ -1,4 +1,4 @@
-% WRITE HERE YOUR SCRIPT HERE
+% WRITE YOUR SCRIPT HERE
 
 n = 0;
 actual_val = exp(1);
