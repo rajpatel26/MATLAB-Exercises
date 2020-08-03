@@ -1,5 +1,4 @@
-% WRITE HERE YOUR SCRIPT FOR EXERCISE 7
-% marking id = 5476 %
+% WRITE HERE YOUR SCRIPT HERE
 
 n = 0;
 actual_val = exp(1);
