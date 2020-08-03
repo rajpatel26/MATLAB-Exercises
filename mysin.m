@@ -1,4 +1,4 @@
-% WRITE HERE YOUR FUNCTION HERE
+% WRITE YOUR FUNCTION HERE
 
 function mysin(p1,p2)
  
