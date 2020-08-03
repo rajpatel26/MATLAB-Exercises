@@ -1,11 +1,4 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-%
-% 
-% Insert BELOW your code 
-% marking id - 88693
+% Insert your code below
 
 function [Xmu,mu] = subtractMean(X)
 %subtractMeans function receives a dataset as an input argument and returns
