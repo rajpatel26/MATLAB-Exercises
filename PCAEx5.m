@@ -1,11 +1,4 @@
-% CS 5810  -- Programming for data analysis 
-%
-%  Assignment 3 | Prof. Alberto Paccanaro
-% 
-%
-% 
-% Insert BELOW your code 
-% marking id - 88693
+% Insert your code below
 
 %Part 1
 %loading datapoints from pcadata.mat
