@@ -1,5 +1,4 @@
-% WRITE HERE YOUR FUNCTION FOR EXERCISE 6
-% marking id = 5476 %
+% WRITE HERE YOUR FUNCTION HERE
 
 function temp = mytemperature(i,j)
  temp(1,1) = min(i,j);
